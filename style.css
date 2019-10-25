@@ -1,0 +1,53 @@
+
+header{
+    font-family: 'Anton', sans-serif;
+    letter-spacing: 2px;
+}
+#wrapper{
+
+    margin: auto;
+    width: 50%;
+    border: 3px solid BLACK;
+    padding: 10px;
+    text-align: center;
+    background-color: aquamarine;
+}
+
+#new-item{
+    background-color: black;
+    color: white;
+    border: 2px;
+    border-color: black;
+    padding: 10px;
+    
+}
+li{
+    margin-left: 20px;
+    padding: 5px;
+
+}
+
+li button{
+
+    margin-left: 5px;
+}
+
+#todo-list{
+    background-color: black;
+    
+    color: white;
+    padding: 10px;
+    margin-right: 5px;
+    text-align: left;
+}
+
+
+#addButton{
+    margin-left: 5px;
+    padding: 10px;
+}
+
+
+::placeholder {
+  color: white;
+}
